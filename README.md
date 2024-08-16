@@ -1,2 +1,1 @@
-# My-Chatgpt
-new repo
+ChatGPT
